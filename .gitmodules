@@ -3,13 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "periodicDNA"]
-	path = periodicDNA
-	url = https://github.com/js2264/periodicdna
-	shallow = true
-	registered = true
-[submodule "VplotR"]
-	path = VplotR
-	url = https://github.com/js2264/vplotr
-	shallow = true
-	registered = true
