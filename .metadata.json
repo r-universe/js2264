@@ -1,5 +1,8 @@
 [
   {
+    "package": "periodicDNA"
+  },
+  {
     "package": "VplotR"
   }
 ]
