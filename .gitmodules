@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HiContacts"]
+	path = HiContacts
+	url = https://github.com/js2264/hicontacts
+	shallow = true
+	registered = true
 [submodule "periodicDNA"]
 	path = periodicDNA
 	url = https://github.com/js2264/periodicdna
