@@ -1,6 +1,12 @@
 [
   {
+    "package": "HiCExperiment"
+  },
+  {
     "package": "HiContacts"
+  },
+  {
+    "package": "HiCool"
   },
   {
     "package": "periodicDNA"
