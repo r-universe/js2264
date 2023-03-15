@@ -1,9 +1,6 @@
 [
   {
-    "package": "periodicDNA"
-  },
-  {
-    "package": "VplotR"
+    "package": "HiCExperiment"
   },
   {
     "package": "HiContacts"
@@ -12,6 +9,9 @@
     "package": "HiCool"
   },
   {
-    "package": "HiCExperiment"
+    "package": "periodicDNA"
+  },
+  {
+    "package": "VplotR"
   }
 ]
