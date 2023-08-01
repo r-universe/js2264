@@ -11,9 +11,9 @@
 [submodule "HiCool"]
 	path = HiCool
 	url = https://github.com/js2264/hicool
-[submodule "periodicDNA"]
-	path = periodicDNA
-	url = https://github.com/js2264/periodicdna
 [submodule "VplotR"]
 	path = VplotR
 	url = https://github.com/js2264/vplotr
+[submodule "periodicDNA"]
+	path = periodicDNA
+	url = https://github.com/js2264/periodicdna
