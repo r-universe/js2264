@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BiocBook"]
+	path = BiocBook
+	url = https://github.com/js2264/biocbook
 [submodule "HiCExperiment"]
 	path = HiCExperiment
 	url = https://github.com/js2264/hicexperiment
@@ -17,3 +20,6 @@
 [submodule "periodicDNA"]
 	path = periodicDNA
 	url = https://github.com/js2264/periodicdna
+[submodule "plyinteractions"]
+	path = plyinteractions
+	url = https://github.com/js2264/plyinteractions
